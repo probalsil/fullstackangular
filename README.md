@@ -1,6 +1,6 @@
 # fullstackangular - Angular spring-boot full-stack application
 
-# Here are the steps to create a full stack application using Spring Boot for the backend:
+## Here are the steps to create a full stack application using Spring Boot for the backend:
 
 Step 1: Set up a new Spring Boot project using a build tool like Maven or Gradle.
 
