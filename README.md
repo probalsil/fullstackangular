@@ -22,7 +22,7 @@ Step 9: Test your backend API using tools such as Postman or curl to ensure that
 
 Step 10: Document your backend API using tools such as Swagger or Spring REST Docs to provide documentation for your API endpoints.
 
-And here are the steps to create the frontend using a popular frontend framework such as Angular:
+## And here are the steps to create the frontend using a popular frontend framework such as Angular:
 
 Step 1: Set up a new Angular project using the Angular CLI.
 
